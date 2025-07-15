@@ -1,0 +1,98 @@
+[
+    {
+        "ip": "8.8.8.8",
+        "pais": "United States",
+        "region": "Virginia",
+        "compania_internet": "Google LLC",
+        "lat": 39.03,
+        "lon": -77.5
+    },
+    {
+        "ip": "8.8.4.4",
+        "pais": "United States",
+        "region": "Virginia",
+        "compania_internet": "Google LLC",
+        "lat": 39.03,
+        "lon": -77.5
+    },
+    {
+        "ip": "1.1.1.1",
+        "pais": "Australia",
+        "region": "Queensland",
+        "compania_internet": "Cloudflare, Inc",
+        "lat": -27.4766,
+        "lon": 153.0166
+    },
+    {
+        "ip": "1.0.0.1",
+        "pais": "Australia",
+        "region": "Queensland",
+        "compania_internet": "Cloudflare, Inc",
+        "lat": -27.4766,
+        "lon": 153.0166
+    },
+    {
+        "ip": "4.2.2.2",
+        "pais": "United States",
+        "region": "Kansas",
+        "compania_internet": "Level 3 Communications, Inc.",
+        "lat": 37.2262,
+        "lon": -95.7341
+    },
+    {
+        "ip": "9.9.9.9",
+        "pais": "United States",
+        "region": "California",
+        "compania_internet": "Quad9",
+        "lat": 37.8767,
+        "lon": -122.2676
+    },
+    {
+        "ip": "182.228.168.9",
+        "pais": "South Korea",
+        "region": "Gyeongsangnam-do",
+        "compania_internet": "LG POWERCOMM",
+        "lat": 35.2619,
+        "lon": 128.867
+    },
+    {
+        "ip": "149.112.112.112",
+        "pais": "United States",
+        "region": "California",
+        "compania_internet": "Quad9",
+        "lat": 37.8806,
+        "lon": -122.268
+    },
+    {
+        "ip": "185.228.168.9",
+        "pais": "United States",
+        "region": "District of Columbia",
+        "compania_internet": "Daniel Cid",
+        "lat": 38.9072,
+        "lon": -77.0369
+    },
+    {
+        "ip": "185.228.169.9",
+        "pais": "Spain",
+        "region": "Madrid",
+        "compania_internet": "Daniel Cid",
+        "lat": 40.4167,
+        "lon": -3.70329
+    },
+    {
+        "ip": "",
+        "pais": "Mexico",
+        "region": "Puebla",
+        "compania_internet": "UNINET",
+        "lat": 19.0306,
+        "lon": -98.1966
+    },
+    {
+        "ip": "201.132.162.34",
+        "pais": "Mexico",
+        "region": "Tlaxcala",
+        "compania_internet": "Mega Cable, S.A. de C.V.",
+        "lat": 19.2375,
+        "lon": -98.3395
+    }
+]
