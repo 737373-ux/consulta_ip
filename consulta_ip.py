@@ -35,11 +35,11 @@ def principal():
         print(json.dumps(resultado, indent=4))
         todo.append(resultado)
     
-    archivo = open("datos_guardados.json", "w")
+    archivo = open("datosguarda.json", "w")
     json.dump(todo, archivo, indent=4)
     archivo.close()
     
-    print("Listo! Se guardó todo en datos_guardados.json")
+    print("listo se guardó los datos:")
 
 if __name__ == "__main__":
     principal()
